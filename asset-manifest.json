@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ifeanyieseni/Portfolio-Website/static/css/main.a08c21c5.css",
+    "main.js": "/ifeanyieseni/Portfolio-Website/static/js/main.ceb5e97e.js",
+    "index.html": "/ifeanyieseni/Portfolio-Website/index.html",
+    "main.a08c21c5.css.map": "/ifeanyieseni/Portfolio-Website/static/css/main.a08c21c5.css.map",
+    "main.ceb5e97e.js.map": "/ifeanyieseni/Portfolio-Website/static/js/main.ceb5e97e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a08c21c5.css",
+    "static/js/main.ceb5e97e.js"
+  ]
+}
